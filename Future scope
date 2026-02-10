@@ -1,0 +1,8 @@
+How to implement them in an intersection?
+How to handle other signal's time ?
+            probably =  T(Max) will be time for signal next in queue
+                        t(max)+t(max)+t(max) will be initial time for fourth signal
+
+
+
+How to integrate it with a camera? 
