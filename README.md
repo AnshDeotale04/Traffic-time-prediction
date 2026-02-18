@@ -1,6 +1,6 @@
 # Traffic Light Optimizer 🚦
 
-A Python-based algorithm that calculates optimal green light timing for traffic signals based on real-time queue analysis.
+A Python-based algorithm that calculates optimal green light timing for traffic signals based on real-time queue analysis...
 
 ## 📋 Overview
 
