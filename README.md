@@ -139,7 +139,7 @@ MIT License - Feel free to use this code for educational purposes.
 
 ## 👨‍💻 Author
 
-Created as a first-year college project exploring traffic optimization algorithms.
+Created as a college project exploring traffic optimization algorithms to study basics of python and logic
 
 ---
 
